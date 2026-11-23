@@ -1,4 +1,4 @@
-h1 align="center">Principios SOLID en Java</h1>
+<h1 align="center">Principios SOLID en Java</h1>
 
 <p align="center">
   <b>Programación Orientada a Objetos – Proyecto</b><br>
